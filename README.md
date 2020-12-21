@@ -4,7 +4,7 @@ repo for learning SwiftUI (including some lessons/tips and created on different 
 
 
 ### Branches list:
-1. Branch HorizontalList --- added horizontal scroll list from random list of emoji
-2. Branch CustomTimer --- added new app lesson from https://youtu.be/sBJ7rv4nhuk
-3. Branch CoreDataCrud --- created small CRUD application on SwiftUI with CoreData (from lessons https://youtu.be/KLc1mtXHn0k and https://youtu.be/Y8bgTSYsDvg)
-4. Branch AnimatedRatingsView --- created Custom Shapes Animation - Animated Ratings View (from lessons https://youtu.be/grORpxXpWgM)
+1. Branch HorizontalList --- added horizontal scroll list from random list of emoji (SwiftUI)
+2. Branch CustomTimer --- added new app lesson from https://youtu.be/sBJ7rv4nhuk (SwiftUI)
+3. Branch CoreDataCrud --- created small CRUD application on SwiftUI with CoreData (from lessons https://youtu.be/KLc1mtXHn0k and https://youtu.be/Y8bgTSYsDvg) (SwiftUI)
+4. Branch AnimatedRatingsView --- created Custom Shapes Animation - Animated Ratings View (from lessons https://youtu.be/grORpxXpWgM) (SwiftUI2)
